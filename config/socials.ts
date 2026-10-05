@@ -10,7 +10,7 @@ interface SocialInterface {
 export const SocialLinks: SocialInterface[] = [
   {
     name: "Github",
-    username: "@namanbarkiya",
+    username: "@AminodinAkbari",
     icon: Icons.gitHub,
     link: "https://github.com/AminodinAkbari",
   },
@@ -28,7 +28,7 @@ export const SocialLinks: SocialInterface[] = [
   // },
   {
     name: "Gmail",
-    username: "naman.barkiya02",
+    username: "AminodinAkbari",
     icon: Icons.gmail,
     link: "mailto:Aminoddinakbari.young2021@gmail.com",
   },

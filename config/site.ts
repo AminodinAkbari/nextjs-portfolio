@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Amin Akbari - Backend-first Full-Stack Developer",
   authorName: "Amin Akbari",
-  username: "namanbarkiya",
+  username: "AminodinAkbari",
   description:
     "Amin Akbari - Software engineer working at the intersection of AI, data, and scalable software systems.",
   url: "https://aminodin.ir",
