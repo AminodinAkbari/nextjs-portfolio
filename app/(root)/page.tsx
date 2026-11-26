@@ -122,7 +122,19 @@ export default function IndexPage() {
                   className={cn(buttonVariants({ size: "lg" }))}
                   aria-label="View resume"
                 >
-                  <Icons.post className="w-4 h-4 mr-2" /> Resume
+                  <Icons.post className="w-4 h-4 mr-2" /> English Resume
+                </Link>
+              </AnimatedText>
+              <AnimatedText delay={0.7}>
+                <Link
+                  href={"/resume-fa"}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={cn(buttonVariants({ size: "lg" }))}
+                  aria-label="View Persian resume"
+                >
+                  <Icons.post className="w-4 h-4 mr-2" />{" "}
+                  <span dir="rtl">رزومه فارسی</span>
                 </Link>
               </AnimatedText>
               <AnimatedText delay={0.8}>
