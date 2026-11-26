@@ -28,7 +28,7 @@ import profileImg from "@/public/profile-img.jpg";
 export const metadata: Metadata = {
   title: `${pagesConfig.home.metadata.title}`,
   description:
-    "Amin Akbari - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions.",
+    "Aminodin Akbari - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions.",
   alternates: {
     canonical: siteConfig.url,
   },
@@ -89,7 +89,7 @@ export default function IndexPage() {
             width={400}
             // sizes="(max-width: 640px) 60vw, 224px"
             className="shrink-0 left-1/2 top-0 z-20 h-40 w-40 object-cover sm:h-48 sm:w-48 md:h-auto md:w-[400px] md:object-fill rounded-full border-8 border-primary bg-primary"
-            alt="Amin Akbari - Backend first / full stack developer"
+            alt="Aminodin Akbari - Backend first / full stack developer"
             priority
           />
           <div className="flex w-full flex-col items-center gap-4 rounded-2xl px-3 text-center md:w-auto md:flex-1">
@@ -98,7 +98,7 @@ export default function IndexPage() {
               delay={0.2}
               className="font-heading text-3xl sm:text-5xl md:text-6xl lg:text-7xl"
             >
-              Amin Akbari
+              Aminodin Akbari
             </AnimatedText>
             <AnimatedText
               as="h3"
@@ -147,7 +147,7 @@ export default function IndexPage() {
                       size: "lg",
                     })
                   )}
-                  aria-label="Contact Amin Akbari"
+                  aria-label="Contact Aminodin Akbari"
                 >
                   <Icons.contact className="w-4 h-4 mr-2" /> Contact
                 </Link>

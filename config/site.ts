@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Amin Akbari - Backend-first Full-Stack Developer",
-  authorName: "Amin Akbari",
+  name: "Aminodin Akbari - Backend-first Full-Stack Developer",
+  authorName: "Aminodin Akbari",
   username: "AminodinAkbari",
   description:
-    "Amin Akbari - Software engineer working at the intersection of AI, data, and scalable software systems.",
+    "Aminodin Akbari - Software engineer working at the intersection of AI, data, and scalable software systems.",
   url: "https://aminodin.ir",
   links: {
     twitter: "",
@@ -17,7 +17,7 @@ export const siteConfig = {
   logoIcon:
     "/public/fav.ico",
   keywords: [
-    "Amin Akbari",
+    "Aminodin Akbari",
     "Aminodin Akbari",
     "Backend first Full-Stack Developer",
     "AI Engineer",

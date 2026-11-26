@@ -18,7 +18,7 @@ export const pagesConfig: PagesConfig = {
     description: "Welcome to my portfolio website.",
     metadata: {
       title: "Home",
-      description: "Amin Akbari's portfolio website.",
+      description: "Aminodin Akbari's portfolio website.",
     },
   },
   skills: {
@@ -27,7 +27,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Skills",
       description:
-        "Amin Akbari's key skills that define his professional identity.",
+        "Aminodin Akbari's key skills that define his professional identity.",
     },
   },
   projects: {
@@ -35,7 +35,7 @@ export const pagesConfig: PagesConfig = {
     description: "Showcasing impactful projects and technical achievements.",
     metadata: {
       title: "Projects",
-      description: "Amin Akbari's projects in building web applications.",
+      description: "Aminodin Akbari's projects in building web applications.",
     },
   },
   contact: {
@@ -43,7 +43,7 @@ export const pagesConfig: PagesConfig = {
     description: "Let's connect and explore collaborations.",
     metadata: {
       title: "Contact",
-      description: "Contact Amin Akbari.",
+      description: "Contact Aminodin Akbari.",
     },
   },
   contributions: {
@@ -52,15 +52,15 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Contributions",
       description:
-        "Amin Akbari's open-source contributions and community involvement.",
+        "Aminodin Akbari's open-source contributions and community involvement.",
     },
   },
   resume: {
     title: "Resume",
-    description: "Amin Akbari's resume.",
+    description: "Aminodin Akbari's resume.",
     metadata: {
       title: "Resume",
-      description: "Amin Akbari's resume.",
+      description: "Aminodin Akbari's resume.",
     },
   },
   blogs: {
@@ -70,7 +70,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Blogs",
       description:
-        "Amin Akbari's blog — thoughts on AI, software engineering, and building in public.",
+        "Aminodin Akbari's blog — thoughts on AI, software engineering, and building in public.",
     },
   },
   experience: {
@@ -79,7 +79,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Experience",
       description:
-        "Amin Akbari's professional journey and experience timeline.",
+        "Aminodin Akbari's professional journey and experience timeline.",
     },
   },
 };

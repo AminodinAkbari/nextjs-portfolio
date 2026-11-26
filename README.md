@@ -1,6 +1,6 @@
-# Amin Akbari — Portfolio
+# Aminodin Akbari — Portfolio
 
-Personal portfolio website of **Amin Akbari**, a backend-first full-stack developer.
+Personal portfolio website of **Aminodin Akbari**, a backend-first full-stack developer.
 
 This portfolio showcases my experience, technical skills, projects, and background.
 

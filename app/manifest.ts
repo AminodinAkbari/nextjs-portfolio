@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Amin Akbari | Backend-first Full-Stack Developer",
-    short_name: "Amin Akbari",
+    name: "Aminodin Akbari | Backend-first Full-Stack Developer",
+    short_name: "Aminodin Akbari",
     description:
-      "Amin Akbari - Backend-first full-stack developer focused on scalable software systems, robust APIs, and practical automation.",
+      "Aminodin Akbari - Backend-first full-stack developer focused on scalable software systems, robust APIs, and practical automation.",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",
